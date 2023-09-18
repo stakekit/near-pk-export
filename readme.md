@@ -4,7 +4,13 @@ This is a tool to derive Near private key and Address from a mnemonic phrase usi
 
 ## Installation
 
-First (for using the right node version)
+Clone down the repository
+
+```bash
+git clone git@github.com:stakekit/near-pk-export.git
+```
+
+Select the node version
 ```bash
 nvm use
 ```
